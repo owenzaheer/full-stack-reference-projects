@@ -6,6 +6,6 @@ Submit three rubric answers before the deadline; scoring is deterministic. An in
 
 State is local and in memory. MongoDB, GraphQL, external model providers, AWS and a live release pipeline are not configured. Feedback text is an instructor-reviewed fixture, not an automated grade. See the shared workflow tests and verification report.
 
-## Review the code
+## Architecture
 
-[Architecture and failure boundaries](ARCHITECTURE.md). Shared workflow modules and tests are in the parent stack folder. This repository is intended for source review; no hosted application is required.
+[Architecture and failure boundaries](ARCHITECTURE.md). Shared workflow modules and tests are in the parent stack folder.

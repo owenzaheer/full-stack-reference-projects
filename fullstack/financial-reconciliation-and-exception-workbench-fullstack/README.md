@@ -6,6 +6,6 @@ From `backend`: install the shared Python requirements and run `uvicorn app:app 
 
 The signing key and role tokens are local fixtures. No live payment provider, PostgreSQL, Redis or model service is connected. Tests in the shared Python module cover signatures, replay conflicts and concurrent approval decisions.
 
-## Review the code
+## Architecture
 
-[Architecture and failure boundaries](ARCHITECTURE.md). Shared workflow modules and tests are in the parent stack folder. This repository is intended for source review; no hosted application is required.
+[Architecture and failure boundaries](ARCHITECTURE.md). Shared workflow modules and tests are in the parent stack folder.

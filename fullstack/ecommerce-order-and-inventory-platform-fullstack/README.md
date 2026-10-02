@@ -6,6 +6,6 @@ Reserve stock using an idempotency key and expected inventory version. Operator 
 
 Storage resets when the Node service restarts. The in-memory fixture is designed for one local process and must not be deployed as a distributed transactional backend. PostgreSQL, Prisma, Redis, Kafka and Kubernetes are not connected in this reference implementation.
 
-## Review the code
+## Architecture
 
-[Architecture and failure boundaries](ARCHITECTURE.md). Shared workflow modules and tests are in the parent stack folder. This repository is intended for source review; no hosted application is required.
+[Architecture and failure boundaries](ARCHITECTURE.md). Shared workflow modules and tests are in the parent stack folder.
