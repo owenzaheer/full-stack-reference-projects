@@ -1,0 +1,20 @@
+[
+  {
+    "id": "financial-reconciliation-and-exception-workbench-fullstack",
+    "title": "Financial Reconciliation and Exception Workbench",
+    "family": "Full-Stack",
+    "folder": "fullstack/financial-reconciliation-and-exception-workbench-fullstack"
+  },
+  {
+    "id": "ecommerce-order-and-inventory-platform-fullstack",
+    "title": "Ecommerce Order and Inventory Platform",
+    "family": "Full-Stack",
+    "folder": "fullstack/ecommerce-order-and-inventory-platform-fullstack"
+  },
+  {
+    "id": "education-learning-and-assessment-portal-fullstack",
+    "title": "Education Learning and Assessment Portal",
+    "family": "Full-Stack",
+    "folder": "fullstack/education-learning-and-assessment-portal-fullstack"
+  }
+]

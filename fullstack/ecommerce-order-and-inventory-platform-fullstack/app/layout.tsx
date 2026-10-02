@@ -1,0 +1,1 @@
+import './styles.css';export const metadata={title:'Commerce workflow reference'};export default function Layout({children}:{children:React.ReactNode}){return <html lang='en'><body>{children}</body></html>}
